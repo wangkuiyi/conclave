@@ -1,4 +1,4 @@
 pystache>=0.5.4
 nose
 requests
-faker
+faker==2.0
